@@ -18,5 +18,5 @@ Folge diesen Schritten, um die Datenbank lokal aufzusetzen.
 
 ### 1. Repository klonen
 ```bash
-git clone [https://github.com/dein-user/book-sharing-db.git](https://github.com/dein-user/book-sharing-db.git)
+git clone [https://github.com/achimmellert/SQL_Project.git](https://github.com/achimmellert/SQL_Project.git)
 cd book-sharing-db
